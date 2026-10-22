@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/kennys-alfaro-perez-30a76b73"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kennys-alfaro-perez-30a76b73"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kalfaroperez@gmail.com"><img src="https://img.shields.io/badge/Email-kalfaroperez@gmail.com-D14836?logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Colombia-FCD116"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20roles-2ea44f"/>
