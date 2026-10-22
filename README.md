@@ -1,6 +1,6 @@
 <h1 align="center">Kennys Alfaro</h1>
 <p align="center">
-  <b>Senior Backend Engineer · C# / .NET 8-9 · Microservices · Azure & AWS</b><br/>
+  <b>Senior Backend Engineer · C# / .NET · Microservices · Azure & AWS</b><br/>
   Integrations, event-driven systems and AI-powered backends
 </p>
 
