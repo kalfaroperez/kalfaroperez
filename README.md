@@ -70,7 +70,7 @@ Lately I'm focused on **integrating AI into backend services** (serverless summa
 | **Async / Jobs** | Hangfire, Azure Service Bus, AWS SQS |
 | **DevOps & Tools** | Git, Azure DevOps, CI/CD, Docker, Postman |
 | **Quality** | Unit testing, code coverage, code reviews |
-| **AI** | AI integration in backend services, Claude API |
+| **AI** | AI integration in backend services, Claude API | OpenAI
 | **Frontend (when needed)** | Angular, AngularJS |
 
 ---
